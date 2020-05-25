@@ -15,6 +15,7 @@ function handleClick(e) {
 function greet(time) {
   const hour parseInt(time, 10);
     if hour > 12
+    
   
 }
 
