@@ -22,6 +22,7 @@ function greet(time) {
       return "Good Evening"
 }
 
-function displayMessage() {
+function displayMessage(message) {
+  
   
 }
