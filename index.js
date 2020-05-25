@@ -12,7 +12,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
 
-function greet(arg) {
+function greet(timeString) {
   
 }
 
